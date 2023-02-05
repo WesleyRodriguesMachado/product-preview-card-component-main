@@ -1,0 +1,6 @@
+:root{
+    --price-main: hsl(158, 36%, 37%);
+    --background: hsl(30, 38%, 92%);
+    --texts: hsl(228, 12%, 48%);
+    --buttons-actives: hsl(157, 39%, 22%);
+}

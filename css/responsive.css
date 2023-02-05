@@ -1,0 +1,70 @@
+@media (max-width: 375px){
+
+
+
+    .main .product-card {
+        max-width: 343px;
+        display: flex;
+       flex-wrap: wrap;
+        padding: 20px;    
+        background-color: blue;
+        height: 100%;
+      
+    }
+
+
+    .main .product-card .foto-perfume {
+       
+        border-radius: 15px 15px 0 0;
+        max-width: 100%;
+    }
+
+    .main .product-card .conteudo {
+       
+        border-radius: 0  0 15px 15px ;
+        padding: 25px;
+        max-height: 400px;
+        margin-top: -5px;
+        
+       
+    }
+    .main .product-card .conteudo .produto-title {
+      
+        font-size: 0.8rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .main .product-card .conteudo .slogan {
+        
+        font-size: 1.8rem;
+        margin-bottom: 10px;
+        
+    }
+
+    .main .product-card .conteudo .description {
+        
+        font-size: 0.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .main .product-card .conteudo .price .price-off {
+       
+        font-size: 2rem;
+        
+        margin-right: 1rem;
+    }
+
+    .main .product-card .conteudo .price {
+
+        margin-bottom: 1rem;
+    }
+
+    .main .btn{
+        padding: 12px ;
+        font-size: 0.9rem;
+    
+      }
+    
+    
+}
+  
