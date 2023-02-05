@@ -5,10 +5,11 @@
     .main .product-card {
         max-width: 343px;
         display: flex;
-       flex-wrap: wrap;
+        flex-wrap: wrap;
         padding: 20px;    
         background-color: #fff;
         height: 100%;
+        margin: 0 auto;
       
     }
 
